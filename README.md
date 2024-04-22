@@ -13,13 +13,18 @@ abilities:
   translated sign language to the Chat Screen.
 ------------------------------------------------------------------------------------------------
 Features
+
 Real-time Sign Language Translation: Utilizes machine learning models to recognize and translate 
 sign language gestures into words in real-time.
+
 Two Machine Learning Models: Incorporates two distinct machine learning models—one for hand 
 gesture detection and another for sign language interpretation.
+
 Letter Combination: Converts individual sign language gestures into letters and combines them to 
 form words.
+
 User-friendly Interface: Offers an intuitive and user-friendly interface for seamless interaction.
+
 -------------------------------------------------------------------------------------------------
 Requirements
 - An Android Device with a Camera
