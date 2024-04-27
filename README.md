@@ -36,3 +36,20 @@ Installation
 2. Open the project in Android Studio.
 3. Build and run the project on your Android device.
 ------------------------------------------------------------------------------------------------
+Acknowledgements
+
+I would like to credit the following links that helped with my understanding and development:
+
+https://medium.com/@sdranju/android-studio-step-by-step-guide-for-setting-up-opencv-sdk-4-9-on-android-740547f3260b
+
+https://tirendazacademy.medium.com/machine-learning-project-with-linear-regression-algorithm-b433d770fefd
+
+https://github.com/pramod722445/hand_detection
+
+https://github.com/Mquinn960/sign-language
+
+https://github.com/syauqy/handsign-tensorflow
+
+------------------------------------------------------------------------------------------------
+
+
